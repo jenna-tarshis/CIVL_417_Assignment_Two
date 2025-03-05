@@ -1,0 +1,8 @@
+Mean Free Surface Elevation: 6.099902 
+Variance of Free Surface Elevation: 0.01007647 
+Number of up-crossings: 160 
+[1] "Significant Wave Height (Hs): 0.37 m"
+[1] "Significant Wave Period (Ts): 10.08 s"
+[1] "Mean Wave Height (Hm): 0.24 m"
+[1] "Mean Wave Period (Tm): 7.47 s"
+[1] "Root-Mean-Square Wave Height (Hrms): 0.27 m"
